@@ -6,4 +6,6 @@ checkpoint文件夹存放模型训练好的参数；
 labels文件夹存放对应的类别，需要与你训练集的类别相同；
 
 checkpoint文件夹中需自行下载文件，下好放入即可，链接：https://pan.baidu.com/s/112sOQdmZyb0_z_211fff4w?pwd=9999 
+
+
 train-model文件夹中需自行下载数据集，下好放入即可，链接：https://pan.baidu.com/s/1T7knfxl_-YrqS8VSJGeNnA?pwd=9999 
